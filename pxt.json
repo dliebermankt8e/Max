@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "motobit": "github:sparkfun/pxt-moto-bit#v0.0.4"
     },
     "files": [
         "main.blocks",
